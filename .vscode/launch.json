@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "com.java.temperature.calculator",
+            "projectName": "java-workshop_e4834027"
+        },
+        {
+            "type": "java",
             "name": "Localtime",
             "request": "launch",
             "mainClass": "com.java.temperature.bean.Localtime",
