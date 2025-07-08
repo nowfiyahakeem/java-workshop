@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Localtime",
+            "request": "launch",
+            "mainClass": "com.java.temperature.bean.Localtime",
+            "projectName": "java-workshop_e4834027"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Agecalculator",
+            "request": "launch",
+            "mainClass": "com.java.temperature.bean.Agecalculator",
+            "projectName": "java-workshop_e4834027"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "com.java.temperature.bean.Example",
+            "projectName": "java-workshop_e4834027"
+        },
+        {
+            "type": "java",
+            "name": "Upper",
+            "request": "launch",
+            "mainClass": "com.java.temperature.bean.Upper",
+            "projectName": "java-workshop_e4834027"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "com.java.workshop.basics.array",
+            "projectName": "java-workshop_e4834027"
+        },
+        {
+            "type": "java",
+            "name": "greetings",
+            "request": "launch",
+            "mainClass": "com.java.workshop.basics.greetings",
+            "projectName": "java-workshop_e4834027"
+        },
+        {
+            "type": "java",
+            "name": "total",
+            "request": "launch",
+            "mainClass": "com.java.workshop.basics.total",
+            "projectName": "java-workshop_e4834027"
+        }
+    ]
+}
